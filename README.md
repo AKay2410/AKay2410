@@ -60,6 +60,13 @@ Facial emotion detection using CNN-RNN in live video feeds
 [View Credentials](https://www.coursera.org/user/credentials)
 
 ---
+## 📊 Experience
+
+**Deloitte Australia – Data Analytics Virtual Internship (Forage)**  
+- Built Tableau dashboards for business insights  
+- Classified data in Excel to support decision-making  
+📄 [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_rccaqmTM9TfGBYBTj_1740065776374_completion_certificate.pdf)
+
 
 ### 📚 Publications
 
