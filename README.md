@@ -34,7 +34,7 @@ I'm a CSE undergrad specializing in **Artificial Intelligence and Machine Learni
 Secure IoT-enabled locker platform with remote access & alerting  
 [🔗 GitHub](https://github.com/AKay2410/Locker_system_web_portal)
 
-<img src="https://github.com/AKay2410/Locker_system_web_portal/blob/main/demo.png" alt="Smart Locker UI" width="500"/>
+
 
 ---
 
@@ -42,7 +42,6 @@ Secure IoT-enabled locker platform with remote access & alerting
 Real-time multilingual chat with interactive vocabulary practice  
 [🔗 GitHub](https://github.com/AKay2410/LinguaLive)
 
-<img src="https://github.com/AKay2410/LinguaLive/blob/main/demo.gif" alt="LinguaLive Demo" width="500"/>
 
 ---
 
